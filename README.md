@@ -6,3 +6,4 @@ This captivating game was crafted using JavaScript during my programming educati
 It's worth noting that a pre-existing design was used as part of the project, allowing me to focus my efforts on developing the game's logic and user interaction.
 In my version of the game, rules were created and implemented, and a scoring system was added to make the gameplay even more engaging.
 Play, enjoy, and compete against the computer in the classic game of 'Rock-Paper-Scissors'.
+[Rock-Paper-Scissors Demo](https://kruger1984.github.io/Rock-Paper-Scissors/)
